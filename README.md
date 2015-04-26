@@ -1,2 +1,3 @@
 # hello-world
-a startting project
+a startting project to get it started!
+
